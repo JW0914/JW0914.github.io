@@ -532,7 +532,7 @@ body {
   padding: 0px 0 20px 0px;
   margin: 0px;
   font: 14px/1.5 "OpenSansRegular", "Helvetica Neue", Helvetica, Arial, sans-serif;
-  color: #f0e7d5;
+  color: #ABABAB;
   font-weight: normal;
   background: #252525;
   background-attachment: fixed !important;
@@ -580,7 +580,7 @@ h3 {
 }
 
 a {
-  color: #ffcc00;
+  color: #AAD200;
   font-weight: 400;
   text-decoration: none;
 }
@@ -616,7 +616,7 @@ section img {
 }
 
 blockquote {
-  border-left: 3px solid #ffcc00;
+  border-left: 3px solid #AAD200;
   margin: 0;
   padding: 0 0 0 20px;
   font-style: italic;
@@ -689,7 +689,7 @@ hr {
 }
 
 dt {
-  color: #F0E7D5;
+  color: #ABABAB;
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }

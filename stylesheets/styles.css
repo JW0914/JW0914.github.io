@@ -576,7 +576,7 @@ h3 {
   line-height: 24px;
   font-family: 'OpenSansRegular', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
-  color: #b6b6b6;
+  color: #00A3FF;
 }
 
 a {
@@ -669,7 +669,7 @@ th {
   text-align: left;
   padding: 5px 10px;
   border-bottom: 1px solid #434343;
-  color: #b6b6b6;
+  color: #00A3FF;
   font-family: 'OpenSansSemibold', "Helvetica Neue", Helvetica, Arial, sans-serif !important;
   font-weight: normal;
 }

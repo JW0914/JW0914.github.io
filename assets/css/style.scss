@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "
+@import "{{ site.theme }}";
 
 @font-face {
   font-family: 'OpenSansLight';
@@ -853,4 +853,4 @@ section #title .credits.right {
   nav {
     display: none;
   }
-}";
+}

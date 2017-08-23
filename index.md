@@ -111,5 +111,4 @@ A collection of Wikis and Tutorials, a few written by me, most compiled from pri
 
 
 ---
-> _I have referenced all source material I compiled from in wikis I did not personally write; if someone comes across a wiki I forgot
-> to add source links to, please let me know so I can correct it, and give the original authors their credit._
+> _I have referenced all source material I compiled from in wikis I did not personally write; if one finds a wiki without source links, please let me know so I can correct it, giving original authors their credit._

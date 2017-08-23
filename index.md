@@ -1,4 +1,4 @@
-A collection of Wikis and Tutorials, a few written by me, most compiled from prior authors and sources.
+Collection of Wikis & Tutorials, a few written by me, most compiled from prior authors & sources.
 
 * [**Scripts, Regs, & Configs**](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs)
   * [**ESD to WIM**](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM)

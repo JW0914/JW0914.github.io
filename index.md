@@ -38,7 +38,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _Client Config_ ([config](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSH/ssh_config%20(Win32-OpenSSH)))
       * _Server Config_ ([config](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSH/sshd_config%20(Win32-OpenSSH)))
   * [**OpenSSL**](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/OpenSSL)
-    * _Custom OpenSSL config (incl. [commands](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/ReadMe.md))_ ([cnf](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/OpenSSL.cnf))
+    * _Custom OpenSSL config (incl. [commands](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/ReadMe.md))_ ([cnf](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/openssl.cnf))
     * _Notepad++ Language Profile_ ([xml](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/Notepad%2B%2B%20OpenSSL%20Language%20Profile.xml)
     * _PEM Association_ ([reg](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/OpenSSL/PEM%20Association.reg))
   * [**OpenVPN**](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/OpenVPN)

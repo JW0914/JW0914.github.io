@@ -1,20 +1,32 @@
+==================================================================
+https://keybase.io/jw0914
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jw0914.github.io
+  * I am jw0914 (https://keybase.io/jw0914) on keybase.
+  * I have a public key ASCayBBlQxwXQ68ltLpPpHQHpL6tlS5YjmbBZmVqoOx7hQo
+
+To do so, I am signing this object:
+
 {
   "body": {
     "key": {
       "eldest_kid": "012052d4fc297a5ca1b81e4103b5a400afb540a57b9123441b0f3694fe88b895bab20a",
       "host": "keybase.io",
-      "kid": "012012df77f369f620e082e18907b6af5c05e6fb1f604e7181ab8140dd211b080ac50a",
+      "kid": "01209ac81065431c1743af25b4ba4fa47407a4bead952e588e66c166656aa0ec7b850a",
       "uid": "ac89af3989d30592dab39aabf9afee19",
       "username": "jw0914"
     },
     "merkle_root": {
-      "ctime": 1561910698,
-      "hash": "1bd98c1e30fd1b312d61f181328094ca665d84e72b75d0f62ab29e93347a819f4cbb9f10b73c7fedce9a1c6e3be5fdc93cd1eca4d8bbf5a3b7ac8dbe297a08df",
-      "hash_meta": "7be3ff48579246b4a506524edf603669642295789df7857df13058175a4eb05a",
-      "seqno": 5667494
+      "ctime": 1561910872,
+      "hash": "b09aef0218af4f41eaee91be069fc31b4f0a08c121c4654b2899d6a679e90418225ad1b979b9b6cf9c4f54937b411eca4564595506340f42f749e50ec6d15292",
+      "hash_meta": "5b64275ea930db1d149ad84825d42d3873b2268b660606a70a67a422c74467f9",
+      "seqno": 5667507
     },
     "service": {
-      "entropy": "2HELKeQHT4913tXjX8fq2C/S",
+      "entropy": "PN73lyZdnFn7PTTWltQC7MKh",
       "hostname": "jw0914.github.io",
       "protocol": "https:"
     },
@@ -23,11 +35,22 @@
   },
   "client": {
     "name": "keybase.io go client",
-    "version": "4.1.0"
+    "version": "4.0.0"
   },
-  "ctime": 1561910718,
+  "ctime": 1561910894,
   "expire_in": 504576000,
-  "prev": "724ee6830373fade1096cd27751d9aec206e34074281b95294ca76155d334387",
-  "seqno": 26,
+  "prev": "f0954d071e97f47dadea63d6badba947ca7ccf7f2632d86e0bdc531090784acf",
+  "seqno": 28,
   "tag": "signature"
 }
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgmsgQZUMcF0OvJbS6T6R0B6S+rZUuWI5mwWZlaqDse4UKp3BheWxvYWTESpcCHMQg8JVNBx6X9H2t6mPWutupR8p8z38mMthuC9xTEJB4Ss/EINQzGveZ7JufRgXeW+6trEFhz4Yguool48izs/zgA9EuAgHCo3NpZ8RATBYUuxxfou5JdHRLHSPS7Obp68hzJT2ZhnK0Ama66j33ZC+UCChCBqpAHeaT5rH06MYJ0o3O29IWLrUgC5eeDKhzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIASHbz4gs16iBuI3XZHO0I9F7sl+afuJv8UgLQr70beoo3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jw0914
+
+==================================================================

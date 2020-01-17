@@ -82,7 +82,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
     * _Vim Config_ ([rc](https://github.com/JW0914/Wikis/blob/master/Scripts%2BConfigs/Vim/.vimrc))
   * [**WinRE**](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/QDir)
     * _Show Hidden Files_ ([reg](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/QDir/ShowHiddenFiles.reg))
-    * _WinRE Creation Script_ ([cmd](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/WinRE/WinRE-Create.cmd)) <br><br><br>
+    * _WinRE Creation Script_ ([cmd](https://github.com/JW0914/Wikis/tree/master/Scripts%2BConfigs/WinRE/WinRE-Create.cmd))<br><br><br>
 * [**Wikis & HowTos**](https://github.com/JW0914/Wikis)
   * [**Automotive**](https://github.com/JW0914/Wikis/tree/master/Automotive)
     * _Magnusson-Moss Warranty Act_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/Magnusson-Moss%20Warranty%20Act.pdf))

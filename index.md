@@ -3,37 +3,37 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
 * [**Scripts, Regs, & Configs**](../../../Wikis/tree/master/Scripts%2BConfigs)
   * [**ClearFog**](../../..//Wikis/tree/master/ClearFog)
     * [**_MMC_**](../../..//Wikis/tree/master/ClearFog/MMC)
-    * _Compile MMC_ ([sh](../../..//Wikis/blob/master/ClearFog/compile_mmc.sh))<br><br>
+    * _Compile MMC_ ([sh](../../..//Wikis/blob/master/ClearFog/compile_mmc.sh))<br>
   * [**ConEmu**](../../..//Wikis/tree/master/Scripts%2BConfigs/ConEmu)
-    * _ConEmu Config_ ([xml](../../..//Wikis/blob/master/Scripts%2BConfigs/ConEmu/ConEmu.xml))<br><br>
+    * _ConEmu Config_ ([xml](../../..//Wikis/blob/master/Scripts%2BConfigs/ConEmu/ConEmu.xml))<br>
   * [**ERUNT**](../../..//Wikis/tree/master/Scripts%2BConfigs/ERUNT)
-    * _ERUNT Config_ ([ini](../../..//Wikis/blob/master/Scripts%2BConfigs/ERUNT/ERUNT.ini))<br><br>
+    * _ERUNT Config_ ([ini](../../..//Wikis/blob/master/Scripts%2BConfigs/ERUNT/ERUNT.ini))<br>
   * [**ESD to WIM**](../../..//Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM)
     * _DISM Standalone Directory Creation_ ([cmd](../../..//Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM/DISM-Creation.cmd))
     * _DISM Standalone Directory Output_ ([txt](../../..//Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM/DISM%20Directory%20Output.txt))
-    * _ESD <-> WIM Conversion_ ([cmd](../../..//Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM/ESD-2-WIM.cmd))<br><br>
+    * _ESD <-> WIM Conversion_ ([cmd](../../..//Wikis/tree/master/Scripts%2BConfigs/ESD%20to%20WIM/ESD-2-WIM.cmd))<br>
   * [**Explorer**](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer)
     * _Add Box Sync to Explorer_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer/Add-Box-to-Nav-Bar.reg))
     * _Add Google Drive to Explorer_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer/Add-Google-Drive-to-Explorer.reg))
     * _Add Links [back] to Explorer_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer/Add-Links-%5Bback%5D-to-Nav-Bar.reg))
-    * _Add ownCloud to Explorer_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer/Add-OwnCloud-to-Explorer.reg))<br><br>
+    * _Add ownCloud to Explorer_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Explorer/Add-OwnCloud-to-Explorer.reg))<br>
   * [**File Associations**](../../..//Wikis/tree/master/Scripts%2BConfigs/File%20Associations)
-    * _PEM Association_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/File%20Associations/PEM%20Association.reg))<br><br>
+    * _PEM Association_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/File%20Associations/PEM%20Association.reg))<br>
   * [**Hosts**](../../..//Wikis/tree/master/Scripts%2BConfigs/Hosts)
-    * _Hosts File_ ([txt](../../..//Wikis/blob/master/Scripts%2BConfigs/Hosts/hosts))<br><br>
+    * _Hosts File_ ([txt](../../..//Wikis/blob/master/Scripts%2BConfigs/Hosts/hosts))<br>
   * [**Hyper-V**](../../..//Wikis/tree/master/Scripts%2BConfigs/Hyper-V)
-    * _Add Hyper-V Manager to Control Panel_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Hyper-V/Add_Hyper-V_Manager_to_Control%20Panel.reg))<br><br>
+    * _Add Hyper-V Manager to Control Panel_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Hyper-V/Add_Hyper-V_Manager_to_Control%20Panel.reg))<br>
   * [**IPtables**](../../..//Wikis/tree/master/Scripts%2BConfigs/IPtables)
-    * _IPtables User Script_ ([sh](../../..//Wikis/tree/master/Scripts%2BConfigs/IPtables/iptables_user-firewall.sh))<br><br>
+    * _IPtables User Script_ ([sh](../../..//Wikis/tree/master/Scripts%2BConfigs/IPtables/iptables_user-firewall.sh))<br>
   * [**Nano**](../../..//Wikis/blob/master/Scripts%2BConfigs/Nano)
-    * _Nano Config_ ([rc](../../..//Wikis/blob/master/Scripts%2BConfigs/Nano/.nanorc))<br><br>
+    * _Nano Config_ ([rc](../../..//Wikis/blob/master/Scripts%2BConfigs/Nano/.nanorc))<br>
   * [**Nginx**](../../..//Wikis/tree/master/Scripts%2BConfigs/Nginx)
     * _Nginx Config_ ([conf](../../..//Wikis/tree/master/Scripts%2BConfigs/Nginx/nginx.conf))
-    * _Notepad++ Language_ ([xml](../../..//Wikis/tree/master/Scripts%2BConfigs/Nginx/Notepad%2B%2B_Nginx_Lang.xml))<br><br>
+    * _Notepad++ Language_ ([xml](../../..//Wikis/tree/master/Scripts%2BConfigs/Nginx/Notepad%2B%2B_Nginx_Lang.xml))<br>
   * [**Notepad++**](../../..//Wikis/tree/master/Scripts%2BConfigs/Notepad%2B%2B)
     * _Nginx Language_ ([xml](../../..//Wikis/tree/master/Scripts%2BConfigs/Notepad%2B%2B/Nginx%20%20Language%20Profile.xml))
     * _OpenSSL Language_ ([xml](../../..//Wikis/tree/master/Scripts%2BConfigs/Notepad%2B%2B/OpenSSL%20Language%20Profile.xml))
-    * _Replace Notepad with Notepad++_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Notepad%2B%2B/Replace-Notepad-with-Notepad%2B%2B.reg))<br><br>
+    * _Replace Notepad with Notepad++_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/Notepad%2B%2B/Replace-Notepad-with-Notepad%2B%2B.reg))<br>
   * [**OpenSSH**](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH)
     * [**_BSD/Linux_**](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/BSD-Linux)
       * _User Config_ ([config](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/BSD-Linux/config))
@@ -42,21 +42,21 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
     * [**_Windows_**](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/Windows)
       * _User Config_ ([config](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/Windows/config))
       * _Client Config_ ([config](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/Windows/ssh_config))
-      * _Server Config_ ([config](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/Windows/sshd_config%20(Win32-OpenSSH)))<br><br>
+      * _Server Config_ ([config](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSH/Windows/sshd_config%20(Win32-OpenSSH)))<br>
   * [**OpenSSL**](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL)
     * _Custom OpenSSL config (incl. [commands](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/ReadMe.md))_ ([Linux](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/Linux/openssl.cnf)/[Windows](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/openssl.cnf))
     * _Notepad++ Language Profile_ ([xml](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/Notepad%2B%2B%20OpenSSL%20Language%20Profile.xml))
-    * _PEM Association_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/PEM%20Association.reg))<br><br>
+    * _PEM Association_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenSSL/PEM%20Association.reg))<br>
   * [**OpenVPN**](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenVPN)
     * _Client Config_ ([ovpn](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenVPN/Client.ovpn))
     * _Server Config_ ([conf](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenVPN/OpenVPN-Server.conf))
-    * _Sophos Server Config_ ([conf](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenVPN/openvpn.conf-default))<br><br>
+    * _Sophos Server Config_ ([conf](../../..//Wikis/tree/master/Scripts%2BConfigs/OpenVPN/openvpn.conf-default))<br>
   * [**OpenWrt**](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE)
     * [**_ClearFog_**](../../..//Wikis/tree/master/ClearFog)
     * [**_Nano_**](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE/Nano)
       * _Makefile_ ([make](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE/Nano/Makefile))
     * [**_Ubuntu_**](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE)
-      * _Build Environment Creation_ ([sh](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE/lede-build.sh))<br><br>
+      * _Build Environment Creation_ ([sh](../../..//Wikis/tree/master/Scripts%2BConfigs/LEDE/lede-build.sh))<br>
   * [**PuTTY**](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY)
     * [**_Multi-Hop_**](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop)
       * _HowTo Multi-Hop SSH_  ([docx](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/How%20To%20Multi-Hop%20SSH.docx)/[pdf](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/How%20To%20Multi-Hop%20SSH.pdf))
@@ -64,37 +64,37 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _FreeNAS Remote PuTTY Profile (Step #2)_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/PuTTY_Profile_FreeNAS_Remote_Multi-hop.reg))
     * [**_Serial_**](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial)
       * _Serial Session_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/Putty-Serial-Session.reg))
-      * _TFTPd32/64 Config_ ([ini](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/tftpd32.ini))<br><br>
+      * _TFTPd32/64 Config_ ([ini](../../..//Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/tftpd32.ini))<br>
   * [**QDir**](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir)
     * _QDir Config_ ([ini](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir/Q-Dir.ini))
-    * _Show Hidden Files_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir/Show-Hidden-Files.reg))<br><br>
+    * _Show Hidden Files_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir/Show-Hidden-Files.reg))<br>
   * [**System Restore**](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore)
     * [**_Windows 10_**](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010)
       * _Context Menu_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/Context%20Menu))
       * _RP Instant_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/RP%20Instant))
       * _RP w/ Confirmation_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/RP%20with%20Confirmation))
       * _RP w/ Description_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/RP%20with%20Description))
-      * _System Startup_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/System%20Startup))<br><br>
+      * _System Startup_ ([dir](../../..//Wikis/tree/master/Scripts%2BConfigs/System%20Restore/Windows%2010/System%20Startup))<br>
   * [**Vim**](../../..//Wikis/blob/master/Scripts%2BConfigs/Vim)
-    * _Vim Config_ ([rc](../../..//Wikis/blob/master/Scripts%2BConfigs/Vim/.vimrc))<br><br>
+    * _Vim Config_ ([rc](../../..//Wikis/blob/master/Scripts%2BConfigs/Vim/.vimrc))<br>
   * [**WinRE**](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir)
     * _Show Hidden Files_ ([reg](../../..//Wikis/tree/master/Scripts%2BConfigs/QDir/Show-Hidden-Files.reg))
-    * _WinRE Creation Script_ ([cmd](../../..//Wikis/tree/master/Scripts%2BConfigs/WinRE/WinRE-Create.cmd))<br><br><br>
+    * _WinRE Creation Script_ ([cmd](../../..//Wikis/tree/master/Scripts%2BConfigs/WinRE/WinRE-Create.cmd))<br><br>
 * [**Wikis & HowTos**](../../..//Wikis)
   * [**Automotive**](../../..//Wikis/tree/master/Automotive)
-    * _Magnusson-Moss Warranty Act_ ([pdf](../../..//Wikis/blob/master/Automotive/Magnusson-Moss%20Warranty%20Act.pdf))<br><br>
+    * _Magnusson-Moss Warranty Act_ ([pdf](../../..//Wikis/blob/master/Automotive/Magnusson-Moss%20Warranty%20Act.pdf))<br>
     * [**_Audio_**](../../..//Wikis/tree/master/Automotive/Audio)
       * [**_JL Audio_**](../../..//Wikis/tree/master/Automotive/Audio/JL%20Audio)
       * _How to Set You Gains_ ([pdf](../../..//Wikis/blob/master/Automotive/Audio/How%20to%20Set%20Your%20Gains.pdf))
       * _Passive Crossover Networks_ ([pdf](../../..//Wikis/blob/master/Automotive/Audio/Passive%20Crossover%20Networks.pdf))
-      * _Thiele Small Parameters_ ([pdf](../../..//Wikis/blob/master/Automotive/Audio/Thiele-Small%20Parameters.pdf))<br><br>
+      * _Thiele Small Parameters_ ([pdf](../../..//Wikis/blob/master/Automotive/Audio/Thiele-Small%20Parameters.pdf))<br>
     * [**Electrical**](../../..//Wikis/tree/master/Automotive/Electrical)
       * [**_Relays_**](../../..//Wikis/tree/master/Automotive/Electrical/Relays)
         * _Automotive Bulb Socket ID_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Automotive%20Bulb%20Socket%20ID.pdf))
         * _Diodes - Blocking & Isolating Door Triggers and Sensors_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Diodes%20-%20Blocking%20%26%20Isolating%20Door%20Triggers%20and%20Sensors.pdf))
         * _Ohm's Law Pie Chart_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Ohm's%20Law%20Pie%20Chart.pdf))
         * _Resistors_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Resistors.pdf))
-        * _Wire Size and Length Table_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Wire%20Size%20%26%20Length%20Table.pdf))<br><br>
+        * _Wire Size and Length Table_ ([pdf](../../..//Wikis/blob/master/Automotive/Electrical/Wire%20Size%20%26%20Length%20Table.pdf))<br>
     * [**FK8 CTR**](../../..//Wikis/tree/master/Automotive/FK8%20CTR)
       * [**_CompuStar_**](../../..//Wikis/tree/master/Automotive/FK8%20CTR/Compustar)
         * [**_Manuals_**](../../..//Wikis/tree/master/Automotive/FK8%20CTR/Compustar/Manuals)
@@ -118,7 +118,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
         * [**_FuseBox_**](../../..//Wikis/tree/master/Automotive/FK8%20CTR/Electrical/FuseBox)
         * [**_Relays_**](../../..//Wikis/tree/master/Automotive/FK8%20CTR/Electrical/Relays)
         * [**_Schematics_**](../../..//Wikis/tree/master/Automotive/FK8%20CTR/Electrical/Schematics)
-        * **Custom Pin-outs**
+        * **_Custom Pin-outs_**
           * _Body Miscelaneous_ ([xsl](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Electrical/Body%20Miscelaneous.xlsx))
           * _Connectors_ ([xls](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Electrical/Connectors.xlsx))
           * _Door Lock & Security_ ([xls](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Electrical/Door%20Locks%20%26%20Security.xlsx))
@@ -143,9 +143,9 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _Owner's Guide_ ([pdf](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Guide.pdf))
       * _Owner's Manual_ ([pdf](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Manual.pdf))
       * _PDI Service Info_ ([pdf](../../..//Wikis/blob/master/Automotive/FK8%20CTR/PDI%20Service%20Info.pdf))
-      * _Reset Procedures_ ([pdf](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))<br><br>
+      * _Reset Procedures_ ([pdf](../../..//Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))<br>
   * [**DirecTV DVR Transfer**](../../..//Wikis/tree/master/DirecTV-DVR-Transfer)
-    * _DirecTV DVR HDD Transfer_ ([pdf](../../..//Wikis/blob/32de2e17f45c2c39b45f2dda15544ffc5d19bbc9/docs/pdf/DirecTV_DVR_HDD_Transfer.pdf))<br><br>
+    * _DirecTV DVR HDD Transfer_ ([pdf](../../..//Wikis/blob/32de2e17f45c2c39b45f2dda15544ffc5d19bbc9/docs/pdf/DirecTV_DVR_HDD_Transfer.pdf))<br>
   * [**OpenSSL**](../../..//Wikis/tree/master/OpenSSL)
     * _Certificates HowTo_ ([pdf](../../..//Wikis/tree/master/OpenSSL/Certificates%20HowTo.pdf))
     * _Crypto Man Page_ ([pdf](../../..//Wikis/tree/master/OpenSSL/Crypto%20Man%20Page%20-%20OpenSSL%20Cryptographic%20Library.pdf))
@@ -153,7 +153,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
     * _OpenSSL Cookbook_ ([pdf](../../..//Wikis/tree/master/OpenSSL/OpenSSL%20Cookbook.pdf))
     * _OpenSSL Man Page_ ([pdf](../../..//Wikis/tree/master/OpenSSL/OpenSSL%20Man%20Page.pdf))
     * _Proxy Certificates HowTo_ ([pdf](../../..//Wikis/tree/master/OpenSSL/Proxy%20Certificates%20HowTo.pdf))
-    * _SSL Man Page_ ([pdf](../../..//Wikis/tree/master/OpenSSL/SSL%20Man%20Page%20-%20TLS%20library%20%5BOpenSSL%5D.pdf))<br><br>
+    * _SSL Man Page_ ([pdf](../../..//Wikis/tree/master/OpenSSL/SSL%20Man%20Page%20-%20TLS%20library%20%5BOpenSSL%5D.pdf))<br>
   * [**OpenVPN**](../../..//Wikis/tree/master/OpenVPN)
     * [**_Documentation_**](../../..//Wikis/tree/master/OpenVPN/Documentation)
       * _Android Certificate Toast Removal_ ([docx](../../..//Wikis/tree/master/OpenVPN/Documentation/Android%20Certificate%20Toast%20Removal.docx)/[pdf](../../..//Wikis/tree/master/OpenVPN/Documentation/Android%20Certificate%20Toast%20Removal.pdf))
@@ -162,11 +162,11 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _OpenVPN Man Page_ ([pdf](../../..//Wikis/tree/master/OpenVPN/Documentation/OpenVPN%20Man%20Page.pdf))
     * [**_HowTO_**](../../..//Wikis/tree/master/OpenVPN/HowTO)
       * _OpenVPN HowTo_ ([pdf](../../..//Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20HowTO.pdf))
-      * _Server HowTo (Streamlined) [OpenWrt Wiki]_ ([pdf](../../..//Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20Server%20HowTo%20(Streamlined)%20%5BOpenWrt%20Wiki%5D.pdf))<br><br>
+      * _Server HowTo (Streamlined) [OpenWrt Wiki]_ ([pdf](../../..//Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20Server%20HowTo%20(Streamlined)%20%5BOpenWrt%20Wiki%5D.pdf))<br>
   * [**Security**](../../..//Wikis/tree/master/Security)
-    * _Modsecurity Handbook_ ([pdf](../../..//Wikis/tree/master/Security/ModSecurity/Modsecurity%20Handbook.pdf))<br><br>
+    * _Modsecurity Handbook_ ([pdf](../../..//Wikis/tree/master/Security/ModSecurity/Modsecurity%20Handbook.pdf))<br>
   * [**Windows**](../../..//Wikis/tree/master/Windows/Run)
-    * _Run Commands_ ([txt](../../..//Wikis/blob/master/Windows/Run/Commands.txt))<br><br>
+    * _Run Commands_ ([txt](../../..//Wikis/blob/master/Windows/Run/Commands.txt))<br>
   * [**WRT AC Series**](../../..//Wikis/tree/master/WRT-AC-Series)
     * [**_TFTP Recovery_**](../../..//Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery)
       * _HowTo_ ([pdf](../../..//Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery/TFTP%20Recovery.pdf))
@@ -175,7 +175,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _TFTPd32_ ([ini](../../..//Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery/tftpd32.ini))
     * [**_U-boot Recovery_**](../../..//Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery)
       * _HowTo_ ([docx](../../..//Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery/u-Boot%20Recovery.docx)/[pdf](../../..//Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery/u-Boot%20Recovery.pdf))
-    * _Device Wiki_ ([pdf](../../..//Wikis/tree/master/WRT-AC-Series/WRT1X00AC(S)%20Wiki.pdf))<br><br>
+    * _Device Wiki_ ([pdf](../../..//Wikis/tree/master/WRT-AC-Series/WRT1X00AC(S)%20Wiki.pdf))<br>
   * [**XboxOne**](../../..//Wikis/tree/master/XboxOne)
     * _Disassembly_ ([pdf](../../..//Wikis/tree/master/XboxOne/Xbox%20One%20Disassembly.pdf))
     * _Formatted Disks in Windows_ ([pdf](../../..//Wikis/tree/master/XboxOne/Xbox%20One%20Formatted%20Disks%20in%20Windows.pdf))

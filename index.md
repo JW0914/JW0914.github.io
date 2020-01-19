@@ -45,7 +45,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
   * [**OpenVPN**](../../../Wikis/tree/master/Scripts%2BConfigs/OpenVPN)
     * _Client Config_ ([ovpn](../../../Wikis/tree/master/Scripts%2BConfigs/OpenVPN/Client.ovpn))
     * _Server Config_ ([conf](../../../Wikis/tree/master/Scripts%2BConfigs/OpenVPN/OpenVPN-Server.conf))
-    * _Sophos Server Config_ ([conf](../../../Wikis/tree/master/Scripts%2BConfigs/OpenVPN/openvpn.conf-default))<br>
+    * _Sophos Server Config_ ([conf](../../../Wikis/tree/master/Scripts%2BConfigs/OpenVPN/openvpn.conf-default))
   * [**OpenWrt**](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE)
     * [**_ClearFog_**](../../../Wikis/tree/master/ClearFog)
       * _Compile MMC_ ([sh](../../../Wikis/blob/master/ClearFog/compile_mmc.sh))
@@ -60,7 +60,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _FreeNAS Remote PuTTY Profile (Step #2)_ ([reg](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/PuTTY_Profile_FreeNAS_Remote_Multi-hop.reg))
     * [**_Serial_**](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial)
       * _Serial Session_ ([reg](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/Putty-Serial-Session.reg))
-      * _TFTPd32/64 Config_ ([ini](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/tftpd32.ini))<br>
+      * _TFTPd32/64 Config_ ([ini](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Serial/tftpd32.ini))
   * [**QDir**](../../../Wikis/tree/master/Scripts%2BConfigs/QDir)
     * _QDir Config_ ([ini](../../../Wikis/tree/master/Scripts%2BConfigs/QDir/Q-Dir.ini))
     * _Show Hidden Files_ ([reg](../../../Wikis/tree/master/Scripts%2BConfigs/QDir/Show-Hidden-Files.reg))<br>
@@ -149,7 +149,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
     * _OpenSSL Cookbook_ ([pdf](../../../Wikis/tree/master/OpenSSL/OpenSSL%20Cookbook.pdf))
     * _OpenSSL Man Page_ ([pdf](../../../Wikis/tree/master/OpenSSL/OpenSSL%20Man%20Page.pdf))
     * _Proxy Certificates HowTo_ ([pdf](../../../Wikis/tree/master/OpenSSL/Proxy%20Certificates%20HowTo.pdf))
-    * _SSL Man Page_ ([pdf](../../../Wikis/tree/master/OpenSSL/SSL%20Man%20Page%20-%20TLS%20library%20%5BOpenSSL%5D.pdf))<br>
+    * _SSL Man Page_ ([pdf](../../../Wikis/tree/master/OpenSSL/SSL%20Man%20Page%20-%20TLS%20library%20%5BOpenSSL%5D.pdf))
   * [**OpenVPN**](../../../Wikis/tree/master/OpenVPN)
     * [**_Documentation_**](../../../Wikis/tree/master/OpenVPN/Documentation)
       * _Android Certificate Toast Removal_ ([docx](../../../Wikis/tree/master/OpenVPN/Documentation/Android%20Certificate%20Toast%20Removal.docx)/[pdf](../../../Wikis/tree/master/OpenVPN/Documentation/Android%20Certificate%20Toast%20Removal.pdf))
@@ -158,11 +158,11 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _OpenVPN Man Page_ ([pdf](../../../Wikis/tree/master/OpenVPN/Documentation/OpenVPN%20Man%20Page.pdf))
     * [**_HowTO_**](../../../Wikis/tree/master/OpenVPN/HowTO)
       * _OpenVPN HowTo_ ([pdf](../../../Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20HowTO.pdf))
-      * _Server HowTo (Streamlined) [OpenWrt Wiki]_ ([pdf](../../../Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20Server%20HowTo%20(Streamlined)%20%5BOpenWrt%20Wiki%5D.pdf))<br>
+      * _Server HowTo (Streamlined) [OpenWrt Wiki]_ ([pdf](../../../Wikis/tree/master/OpenVPN/HowTO/OpenVPN%20Server%20HowTo%20(Streamlined)%20%5BOpenWrt%20Wiki%5D.pdf))
   * [**Security**](../../../Wikis/tree/master/Security)
     * _Modsecurity Handbook_ ([pdf](../../../Wikis/tree/master/Security/ModSecurity/Modsecurity%20Handbook.pdf))<br>
   * [**Windows**](../../../Wikis/tree/master/Windows/Run)
-    * _Run Commands_ ([txt](../../../Wikis/blob/master/Windows/Run/Commands.txt))<br>
+    * _Run Commands_ ([txt](../../../Wikis/blob/master/Windows/Run/Commands.txt))
   * [**WRT AC Series**](../../../Wikis/tree/master/WRT-AC-Series)
     * [**_TFTP Recovery_**](../../../Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery)
       * _HowTo_ ([pdf](../../../Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery/TFTP%20Recovery.pdf))
@@ -171,7 +171,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _TFTPd32_ ([ini](../../../Wikis/tree/master/WRT-AC-Series/TFTP%20Recovery/tftpd32.ini))
     * [**_U-boot Recovery_**](../../../Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery)
       * _HowTo_ ([docx](../../../Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery/u-Boot%20Recovery.docx)/[pdf](../../../Wikis/tree/master/WRT-AC-Series/U-boot%20Recovery/u-Boot%20Recovery.pdf))
-    * _Device Wiki_ ([pdf](../../../Wikis/tree/master/WRT-AC-Series/WRT1X00AC(S)%20Wiki.pdf))<br>
+    * _Device Wiki_ ([pdf](../../../Wikis/tree/master/WRT-AC-Series/WRT1X00AC(S)%20Wiki.pdf))
   * [**XboxOne**](../../../Wikis/tree/master/XboxOne)
     * _Disassembly_ ([pdf](../../../Wikis/tree/master/XboxOne/Xbox%20One%20Disassembly.pdf))
     * _Formatted Disks in Windows_ ([pdf](../../../Wikis/tree/master/XboxOne/Xbox%20One%20Formatted%20Disks%20in%20Windows.pdf))

@@ -52,7 +52,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
     * [**_Nano_**](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE/Nano)
       * _Makefile_ ([make](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE/Nano/Makefile))
     * [**_Ubuntu_**](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE)
-      * _Build Environment Creation_ ([sh](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE/lede-build.sh))<br>
+      * _Build Environment Creation_ ([sh](../../../Wikis/tree/master/Scripts%2BConfigs/LEDE/lede-build.sh))
   * [**PuTTY**](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY)
     * [**_Multi-Hop_**](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop)
       * _HowTo Multi-Hop SSH_  ([docx](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/How%20To%20Multi-Hop%20SSH.docx)/[pdf](../../../Wikis/tree/master/Scripts%2BConfigs/PuTTY/Multi-Hop/How%20To%20Multi-Hop%20SSH.pdf))
@@ -97,7 +97,7 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _Owner's Guide_ ([pdf](../../../Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Guide.pdf))
       * _Owner's Manual_ ([pdf](../../../Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Manual.pdf))
       * _PDI Service Info_ ([pdf](../../../Wikis/blob/master/Automotive/FK8%20CTR/PDI%20Service%20Info.pdf))
-      * _Reset Procedures_ ([pdf](../../../Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))<br>
+      * _Reset Procedures_ ([pdf](../../../Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))<br><br>
       * [**_CompuStar_**](../../../Wikis/tree/master/Automotive/FK8%20CTR/Compustar)
         * [**_Manuals_**](../../../Wikis/tree/master/Automotive/FK8%20CTR/Compustar/Manuals)
         * [**_Options_**](../../../Wikis/tree/master/Automotive/FK8%20CTR/Compustar/Options)

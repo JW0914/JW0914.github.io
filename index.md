@@ -97,7 +97,8 @@ Collection of Wikis & Tutorials, a few written by me, most compiled from prior a
       * _Owner's Guide_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Guide.pdf))
       * _Owner's Manual_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/Owner's%20Manual.pdf))
       * _PDI Service Info_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/PDI%20Service%20Info.pdf))
-      * _Reset Procedures_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))<br><br>
+      * _Reset Procedures_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/Reset%20Procedures.pdf))
+      * _Warranty Terms_ ([pdf](https://github.com/JW0914/Wikis/blob/master/Automotive/FK8%20CTR/Honda%20Warranty%20Basebook%20(KA%20Final%20AWL-02971-2017).pdf))<br><br>
       * [**_CompuStar_**](https://github.com/JW0914/Wikis/tree/master/Automotive/FK8%20CTR/Compustar)
         * [**_Manuals_**](https://github.com/JW0914/Wikis/tree/master/Automotive/FK8%20CTR/Compustar/Manuals)
         * [**_Options_**](https://github.com/JW0914/Wikis/tree/master/Automotive/FK8%20CTR/Compustar/Options)
